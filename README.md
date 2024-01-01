@@ -1,2 +1,2 @@
-# My-Portfolio-web
-My Portfolio the Dev Frontend 
+## Project Portfolio Personal
+## It will be developed in HTML, CSS, JS
